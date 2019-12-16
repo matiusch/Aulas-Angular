@@ -17,7 +17,9 @@
 
 }
 .tamanho img{
-    height: 50px;
+    margin:2%;
+    height: 60px;
+    width: 40px;
 }
 .navbar-light .navbar-toggler {
     color: #ffc61d;
